@@ -1,0 +1,12 @@
+
+REQUEST_SUCCESSFULL="Successfully Updated!"
+CREATED_SUCCESSFULL="Successfully Created!"
+CAMPAIGN_NOT_FOUND = "Campaign not found"
+PHOTO_EVIDENCE_NOT_FOUND = "Photo Evidence not found"
+EVIDENCE_NOT_FOUND = "Evidence not found"
+TASK_NOT_FOUND = "Task not found"
+MEDIA_ASSEST_NOT_FOUND = "Media type not found"
+MEDIA_ASSEST_PRODUCT_NOT_FOUND="Product not found"
+INVALID_CAMPAIGN_DATE="Invalid Campaign date"
+MESSAGE="message"
+SUCCESS="success"
